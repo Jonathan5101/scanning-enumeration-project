@@ -1,4 +1,6 @@
- scanning-enumeration-project
+
+scanning-enumeration-project
+
 This project demonstrates scanning and enumeration techniques used in cybersecurity to fingerprint hosts, services, and operating systems on a simulated enterprise network (MegaQuagga).
 
 Tools Used
